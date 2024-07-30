@@ -1,16 +1,14 @@
-## Hi there 👋
+Boas vindas ao meu perfil 🇧🇷
 
-<!--
-**PedroAlexandre23/PedroAlexandre23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome è Pedro Alexandre
 
-Here are some ideas to get you started:
+Estou estudando na alura para aprender mais sobre programaçâo
+Estou me desenvolvendo na linguagem javascript
+utilizo o GitHub para organizar e desenvolver os meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Você pode entrar em contado comigo pelo 📧
+
+0000110862036xsp@al.educacao.sp.gov.br
+
+
+https://media.tenor.com/E9gkUiukcjQAAAAj/wingman-gekko.gif
